@@ -1,0 +1,2 @@
+# Election_Prediction_Capstone_Project
+Indian Election 2024 Prediction
